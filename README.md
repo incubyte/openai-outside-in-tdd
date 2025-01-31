@@ -7,3 +7,5 @@ Problem statement
 /ask?q=say "hello world!" without quotes
  
 assertion should be to expect "hello world"
+
+- Request spec -> Request Code -> Which call service code -> Service Spec -> Service Code
