@@ -1,9 +1,24 @@
-# openai-outside-in-tdd
-Problem statement
-- Say hello world with out quote
-- It should return the response from openAI
+# README
 
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-/ask?q=say "hello world!" without quotes
- 
-assertion should be to expect "hello world"
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
